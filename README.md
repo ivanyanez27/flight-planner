@@ -32,11 +32,6 @@ npm start
 
 4. Open http://localhost:3000/ in your browser to access Flight Planner.
 
-# Flight Planner
-
-## Overview
-
-Flight Planner is a comprehensive travel planning Django application that enables users to meticulously plan their trip itinerary. It offers a seamless interface for searching flights, accommodations, and points of interest to ensure an unforgettable travel experience.
 
 ### Django Installation
 
