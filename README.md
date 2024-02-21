@@ -17,6 +17,7 @@ A comprehensive travel planning application that will allow users to plan their 
 ```bash
 git clone https://github.com/yourusername/flight-planner.git
 cd flight-planner
+```
 
 2. Install NPM packages:
 
@@ -31,6 +32,9 @@ npm start
 ```
 
 4. Open http://localhost:3000/ in your browser to access Flight Planner.
+
+
+
 
 
 ### Django Installation
@@ -70,12 +74,15 @@ python manage.py runserver
 5. Visit http://127.0.0.1:8000/ in your web browser to start planning your trip.
 
 
+
 ## Features
 
     Flight Search: Explore flight options to suit your travel needs.
     Accommodations: Find the perfect place to stay.
     Points of Interest: Discover top attractions and activities.
     Trip Itinerary: Easily organize your travel plans.
+
+
 
 ## Building and Deployment
 
