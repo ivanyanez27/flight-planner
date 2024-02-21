@@ -41,9 +41,10 @@ python manage.py runserver
 
 5. Visit http://127.0.0.1:8000/ in your web browser to start planning your trip.
 
-Features
 
-    Flight Search: Find flights based on your criteria.
-    Accommodations: Search for places to stay during your trip.
-    Points of Interest: Discover attractions and activities.
-    Itinerary Planner: Organize your travel schedule in one place.
+**Features**
+
+    **Flight Search**: Find flights based on your criteria.
+    **Accommodations**: Search for places to stay during your trip.
+    **Points of Interest**: Discover attractions and activities.
+    **Itinerary Planner**: Organize your travel schedule in one place.
