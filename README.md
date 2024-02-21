@@ -2,7 +2,8 @@
 A comprehensive travel planning application that will allow users to plan their trip itinerary by searching for flights, accommodations, and points of interest. 
 
 
-## Getting Started
+___
+
 
 ### React Installation
 
@@ -34,7 +35,7 @@ npm start
 4. Open http://localhost:3000/ in your browser to access Flight Planner.
 
 
-
+___
 
 
 ### Django Installation
