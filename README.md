@@ -4,12 +4,13 @@ A comprehensive travel planning application that will allow users to plan their 
 
 ## Getting Started
 
+### React Installation
+
 ### Prerequisites
 
 - Node.js 14+
 - npm 6+
 
-### Installation
 
 1. Clone the repository:
 
@@ -30,6 +31,49 @@ npm start
 ```
 
 4. Open http://localhost:3000/ in your browser to access Flight Planner.
+
+# Flight Planner
+
+## Overview
+
+Flight Planner is a comprehensive travel planning Django application that enables users to meticulously plan their trip itinerary. It offers a seamless interface for searching flights, accommodations, and points of interest to ensure an unforgettable travel experience.
+
+### Django Installation
+
+### Prerequisites
+
+- Python 3.8+
+- Django 3.2+
+- Other dependencies listed in `requirements.txt`
+
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/flight-planner.git
+cd flight-planner
+```
+
+2. Install dependencies:
+    
+```bash
+pip install -r requirements.txt
+```
+
+3. Set up the database:
+   
+```bash
+python manage.py migrate
+```
+
+4. Run the development server:
+   
+```bash
+python manage.py runserver
+```
+
+5. Visit http://127.0.0.1:8000/ in your web browser to start planning your trip.
+
 
 ## Features
 
