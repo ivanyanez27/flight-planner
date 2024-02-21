@@ -21,24 +21,25 @@ git clone https://github.com/yourusername/flight-planner.git
 cd flight-planner
 ```
 
-```bash
 2. Install dependencies:
+    
+```bash
 pip install -r requirements.txt
 ```
 
-```bash
 3. Set up the database:
+   
+```bash
 python manage.py migrate
 ```
 
-```bash
 4. Run the development server:
+   
+```bash
 python manage.py runserver
 ```
 
-```bash
 5. Visit http://127.0.0.1:8000/ in your web browser to start planning your trip.
-```
 
 Features
 
