@@ -18,4 +18,31 @@ Flight Planner is a comprehensive travel planning Django application that enable
 
 ```bash
 git clone https://github.com/yourusername/flight-planner.git
-cd flight-planner
+cd flight-planner```
+
+2. Install dependencies:
+
+bash
+
+pip install -r requirements.txt
+
+    Set up the database:
+
+bash
+
+python manage.py migrate
+
+    Run the development server:
+
+bash
+
+python manage.py runserver
+
+    Visit http://127.0.0.1:8000/ in your web browser to start planning your trip.
+
+Features
+
+    Flight Search: Find flights based on your criteria.
+    Accommodations: Search for places to stay during your trip.
+    Points of Interest: Discover attractions and activities.
+    Itinerary Planner: Organize your travel schedule in one place.
