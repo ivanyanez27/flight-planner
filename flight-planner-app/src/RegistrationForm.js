@@ -31,7 +31,7 @@ function RegistrationForm() {
         <div>
             <h2>Registration Form</h2>
             <form onSubmit={handleSubmit}>
-                <div>
+                <div className='formFields'>
                     <label htmlFor='firstName'>First Name:</label>
                     <input
                         type='text'
@@ -41,7 +41,7 @@ function RegistrationForm() {
                         required
                     />
                 </div>
-                <div>
+                <div className='formFields'>
                     <label htmlFor='lastName'>Last Name:</label>
                     <input
                         type='text'
@@ -51,7 +51,7 @@ function RegistrationForm() {
                         required
                     />
                 </div>
-                <div>
+                <div className='formFields'>
                     <label htmlFor='username'>Username:</label>
                     <input
                         type='text'
@@ -61,7 +61,7 @@ function RegistrationForm() {
                         required
                     />
                 </div>
-                <div>
+                <div className='formFields'>
                     <label htmlFor='email'>Email:</label>
                     <input
                         type='text'
@@ -71,7 +71,7 @@ function RegistrationForm() {
                         required
                     />
                 </div>
-                <div>
+                <div className='formFields'>
                     <label htmlFor='password'>Password:</label>
                     <input
                         type='text'
@@ -81,7 +81,7 @@ function RegistrationForm() {
                         required
                     />
                 </div>
-                <div>
+                <div className='formFields'>
                     <label htmlFor='address'>Address:</label>
                     <input
                         type='text'
@@ -91,7 +91,7 @@ function RegistrationForm() {
                         required
                     />
                 </div>
-                <div>
+                <div className='formFields'>
                     <label htmlFor='number'>Number:</label>
                     <input
                         type='text'
