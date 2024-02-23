@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import HelloWorld from './HelloWorld';
 import axios from 'axios';
-
+import './RegistrationForm.css'
 
 
 function RegistrationForm() {
